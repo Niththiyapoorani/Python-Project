@@ -51,12 +51,12 @@ pip install speechrecognition pyttsx3 wikipedia
 - The chatbot replies audibly via the pyttsx3 text-to-speech engine.
 
 ## 💡 Example Commands
-|Command	| ------------|Description|
-|“Open Google” | ---------------|	Launches Google in the default browser|
-|“Search Wikipedia for Albert Einstein”| -------------	|Fetches a summary from Wikipedia|
-|“What is the time?”| ----------	|Speaks the current time|
-|“Shutdown the system”|------------|	Initiates a system shutdown|
-|“Write a note” | -----------|	Creates a text note file|
+|Command	| :------------|Description|
+|“Open Google” | :---------------|	Launches Google in the default browser|
+|“Search Wikipedia for Albert Einstein”| :-------------	|Fetches a summary from Wikipedia|
+|“What is the time?”| :----------	|Speaks the current time|
+|“Shutdown the system”|:------------|	Initiates a system shutdown|
+|“Write a note” | :-----------|	Creates a text note file|
 
 ## 🔧 Optional Enhancements
 - Add a personalized greeting system
