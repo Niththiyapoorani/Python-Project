@@ -51,12 +51,13 @@ pip install speechrecognition pyttsx3 wikipedia
 - The chatbot replies audibly via the pyttsx3 text-to-speech engine.
 
 ## 💡 Example Commands
-|Command	| :------------|Description|
-|“Open Google” | :---------------|	Launches Google in the default browser|
-|“Search Wikipedia for Albert Einstein”| :-------------	|Fetches a summary from Wikipedia|
-|“What is the time?”| :----------	|Speaks the current time|
-|“Shutdown the system”|:------------|	Initiates a system shutdown|
-|“Write a note” | :-----------|	Creates a text note file|
+|Command	|Description|
+|--------------|---------------|
+|“Open Google” |	Launches Google in the default browser|
+|“Search Wikipedia for Albert Einstein”	|Fetches a summary from Wikipedia|
+|“What is the time?”|Speaks the current time|
+|“Shutdown the system”|	Initiates a system shutdown|
+|“Write a note”|	Creates a text note file|
 
 ## 🔧 Optional Enhancements
 - Add a personalized greeting system
@@ -68,14 +69,6 @@ pip install speechrecognition pyttsx3 wikipedia
 - Adjust pause_threshold in the speech_recognition module for better response timing.
 - Validate error handling for unrecognized or empty voice input.
 
-## 📦 Project Structure
-
-voice-ai-chatbot/
-│
-├── main.py                 # Core chatbot logic
-├── requirements.txt        # Dependencies
-├── README.md               # Documentation
-└── notes/                  # Optional folder for saved notes
 
 ## Conclusion
 The project demonstrates how Speech Recognition, Text-to-Speech, and Python automation can create an efficient AI voice assistant. It highlights the potential of natural language interfaces and forms a base for future intelligent personal assistants.
